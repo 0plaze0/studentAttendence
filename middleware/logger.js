@@ -4,9 +4,7 @@ const path = require("path");
 
 const { v4: uuid } = require("uuid");
 const { format } = require("date-fns");
-
-console.log(format(new Date(), "yyyy-MM-dd"));
-console.log(uuid());
+const { error } = require("console");
 
 const logEvent = (message, file) => {
   const date = `${format(new Date(), "yyyy-MM-dd\tHH-mm-ss")}`;
