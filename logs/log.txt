@@ -1,0 +1,4 @@
+2023-08-15	12-45-45	443ba44f-4e14-417e-8a3a-cd09cf5f6ced	/	localhost	GET2023-08-15	
+2023-08-15	12-46-28	232dd3fa-3d3f-44bf-9e10-5df91308f3cc	/favicon.ico	localhost	GET
+2023-08-15	12-46-41	da81ba90-66af-47ac-99af-ff674aabee69	/	localhost	GET
+2023-08-15	12-46-41	423a138b-7b52-408c-b134-1b29d9d10dd6	/favicon.ico	localhost	GET
