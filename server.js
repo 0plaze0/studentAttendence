@@ -2,18 +2,21 @@ require("dotenv").config();
 const express = require("express");
 const app = express();
 const { logger } = require("./middleware/logger");
-const { errorHandler } = require("./middleware/errorHandler");
 const cors = require("cors");
 const { corsOptions } = require("./config/corsOption");
+const { errorHandler } = require("./middleware/errorHandler");
+
 const PORT = process.env.PORT || 3400;
 
 //middleware
 app.use(logger);
-
 app.use(cors(corsOptions));
-app.get("/", (req, res) => {
-  res.send("hello");
-});
+app.use(express.json());
+
+//routes
+app.use("/");
+app.use("/api/v4/", require("./routes/api/api"));
+
 //errorHandler
 app.use(errorHandler);
 

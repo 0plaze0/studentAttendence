@@ -39,3 +39,17 @@
 2023-08-15	15-05-03	6b31773c-6510-40c5-b847-1397319654f4	/	https://stackoverflow.com	GET
 2023-08-15	15-06-30	a9c6e870-9a75-4ca5-b235-734ac508f70a	/	https://stackoverflow.com	OPTIONS
 2023-08-15	15-06-30	40d84619-e078-4384-9cb0-131561ca2b32	/	https://stackoverflow.com	GET
+2023-08-15	15-19-05	65ab11fa-aff0-4d31-bef9-cbdd631a9fa8	/api/v4	localhost	GET
+2023-08-15	15-24-50	20c72edc-39ea-4de7-8793-1f81d8bb99a9	/	localhost	GET
+2023-08-15	15-26-44	72c23e01-5e28-4820-aa20-a654fac9a698	//api/v4/	localhost	GET
+2023-08-15	15-26-49	be42a45b-395e-4b01-83a6-52b7ed050260	/api/v4/	localhost	GET
+2023-08-15	15-29-22	cdc0759e-0c3d-47ef-895f-96972a34157a	/api/v4/	localhost	GET
+2023-08-15	15-30-58	a4323ae6-0509-4796-bdc2-92acc97cde68	/api/v4/	localhost	GET
+2023-08-15	15-31-02	368fc03c-31cd-4669-b5fe-1058dd275e9f	/api/v4/	localhost	GET
+2023-08-15	15-32-21	1cf5e316-6005-4b80-a326-010c68888d4e	/api/v4/	localhost	GET
+2023-08-15	15-34-56	eef36bd3-4a20-4f83-800b-32ddf2410c19	/api/v4/	localhost	GET
+2023-08-15	15-37-50	abe33f75-1946-4b98-9c42-447e70a6e6d3	/api/v4/	localhost	GET
+2023-08-15	15-39-46	220b2524-9d1a-4c85-8e66-f74e5fb8f042	/api/v4/	localhost	GET
+2023-08-15	15-39-54	20ea733b-6438-4a6f-8ca2-07c9a6664664	/api/v4/login	localhost	GET
+2023-08-15	15-40-57	71b67644-0942-490f-8115-8333b1cddf19	/api/v4/login	localhost	GET
+2023-08-15	15-42-32	9009a49f-965f-4548-8251-55c59233b839	/api/v4/login	localhost	GET
