@@ -14,7 +14,7 @@ app.use(cors(corsOptions));
 app.use(express.json());
 
 //routes
-app.use("/api/v4/", require("./routes/api/api"));
+app.use("/api/v1/", require("./routes/api/api"));
 
 //errorHandler
 app.use(errorHandler);

@@ -53,3 +53,9 @@
 2023-08-15	15-39-54	20ea733b-6438-4a6f-8ca2-07c9a6664664	/api/v4/login	localhost	GET
 2023-08-15	15-40-57	71b67644-0942-490f-8115-8333b1cddf19	/api/v4/login	localhost	GET
 2023-08-15	15-42-32	9009a49f-965f-4548-8251-55c59233b839	/api/v4/login	localhost	GET
+2023-08-16	19-31-54	10af74f0-29cf-4657-ab2b-8fa4d3493b08	/	localhost	GET
+2023-08-16	19-32-08	7af7a7a7-de75-4219-940f-62daa81e1fdd	/	localhost	GET
+2023-08-16	19-32-32	e0e8f0ff-a510-433a-9b64-b548d9de8b7e	/api/v1/student	localhost	GET
+2023-08-16	19-32-32	d266e7f6-23af-4004-8e3d-ea6df2121b94	/favicon.ico	localhost	GET
+2023-08-16	19-32-38	ae91838e-b3b7-4298-8020-6e932bf24f0c	/api/v1/teacher	localhost	GET
+2023-08-16	19-33-06	70c8798f-5bfb-4c16-8272-a6d74fba2626	/api/v1/student	localhost	GET
