@@ -19,9 +19,6 @@ app.use("/api/v1/", require("./routes/api/api"));
 //errorHandler
 app.use(errorHandler);
 
-mongoose.connection.once("open", () => {
-  console.log("connection to mongoDB");
-  app.listen(PORT, () => {
-    console.log(`Server is runnig on ${PORT}`);
-  });
+app.listen(PORT, () => {
+  console.log(`Server is runnig on ${PORT}`);
 });
